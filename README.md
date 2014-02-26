@@ -39,6 +39,10 @@ ls |pushb -n ujzyj0WstgqdjzWIEVDzOK
 
 Usage
 ======
+
+##### Basically, this is it
+
+` $ uptime |pushb`<br>
 <br>
 `-c : (re)configure`
 
