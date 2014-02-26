@@ -4,8 +4,7 @@ Quick and dirty bash script to push data from your local /dev/stdin to pushbulle
 
 Installation
 ======
-download
-copy to somewhere in your path and chmod +x,
+download pushb, copy it to somewhere in your path and chmod +x,
 ie
 
 `# curl https://raw.github.com/pokemans/pushb/master/pushb.sh > /usr/sbin/pushb`<br>
@@ -44,6 +43,9 @@ Usage
 
 ` $ uptime |pushb`<br>
 <br>
+
+full options list:<br>
+
 `-c : (re)configure`
 
 `-l : list devices & their IDs then exit`
