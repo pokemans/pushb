@@ -8,8 +8,8 @@ download
 copy to somewhere in your path and chmod +x
 
 ie
-`# curl https://raw.github.com/pokemans/pushb/master/pushb.sh > /usr/sbin/pushb
-# chmod +x /usr/sbin/pushb`
+`# curl https://raw.github.com/pokemans/pushb/master/pushb.sh > /usr/sbin/pushb`
+`# chmod +x /usr/sbin/pushb`
 
 Setup
 ======
@@ -18,10 +18,8 @@ Run pushb with the `-c` flag to configure it
 you'll need your api key, which you can get from your account settings page on pushbullet.com
 
 pushb will display a list of devices and their pushbullet IDs, for example
-`
-id: ujzyj0WstgqdjzWIEVDzOK description: Google Chrome
-id: ujzyj0WstgqdjAiVsKnSTs description: HTC One
-`
+`id: ujzyj0WstgqdjzWIEVDzOK description: Google Chrome`
+`id: ujzyj0WstgqdjAiVsKnSTs description: HTC One`
 
 You select the device that pushb will default to by entering it's ID at the prompt like so
 `
