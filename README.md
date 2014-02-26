@@ -8,10 +8,8 @@ download
 copy to somewhere in your path and chmod +x
 
 ie
-`
-# curl https://raw.github.com/pokemans/pushb/master/pushb.sh > /usr/sbin/pushb
-# chmod +x /usr/sbin/pushb
-`
+`# curl https://raw.github.com/pokemans/pushb/master/pushb.sh > /usr/sbin/pushb
+# chmod +x /usr/sbin/pushb`
 
 Setup
 ======
